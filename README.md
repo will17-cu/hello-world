@@ -1,2 +1,3 @@
 # hello-world
-aclaracion de github
+aclaracion de  github.
+deseo seguir aprendiendo de este mundo.
